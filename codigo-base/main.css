@@ -46,5 +46,15 @@ button:hover {
     background-color: #27ae60;
     padding: 16px;
     color: #fff;
-    
+    display: none;
+
+}
+.erroName{
+
+    padding: 8px;
+    background-color: red;
+    color: #fff;
+    margin-bottom: 8px;
+    font-size: 12px;
+    display: none;
 }
